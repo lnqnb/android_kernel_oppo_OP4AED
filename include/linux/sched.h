@@ -58,7 +58,6 @@ struct sched_param {
 #include <linux/gfp.h>
 #include <linux/magic.h>
 #include <linux/cgroup-defs.h>
-#include <trace/events/sched.h>
 #include <asm/processor.h>
 
 #define SCHED_ATTR_SIZE_VER0	48	/* sizeof first published struct */
